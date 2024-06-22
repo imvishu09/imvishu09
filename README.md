@@ -1,7 +1,8 @@
 <h1 align="">Hi 👋, I'm Vishvendra Singh</h1>
-<h4 align="">As a full stack developer with expertise in Java and data structures, I am skilled in designing and developing frontend websites/apps using JavaScript/React. My skills also include machine learning, SQL, and tools like Git/GitHub for collaborative development.</h4>
+<h3 align="">As a full stack developer with expertise in Java and data structures, I am skilled in designing and developing frontend websites/apps using JavaScript/React. My skills also include machine learning, SQL, and tools like Git/GitHub for collaborative development.</h3>
 
-- 📫 How to reach me **imvishu@gmail.com**
+
+📫 How to reach me **imvishu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
