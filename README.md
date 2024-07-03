@@ -1,4 +1,4 @@
-#Hi 👋, I'm Vishvendra Singh
+## Hi 👋, I'm Vishvendra Singh
 As a full-stack developer with expertise in Java and data structures, I am skilled in designing and developing frontend websites/apps using JavaScript/React. My skills also include machine learning, SQL, and tools like Git/GitHub for collaborative development.
 
 
